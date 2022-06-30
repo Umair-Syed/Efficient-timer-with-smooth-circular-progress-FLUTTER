@@ -6,6 +6,8 @@
 #### -Better frame rate as compared to if Timer is used.
 #### -No snappy progress indicator.
 
+![](/screen_gif.gif)
+
 
 
 

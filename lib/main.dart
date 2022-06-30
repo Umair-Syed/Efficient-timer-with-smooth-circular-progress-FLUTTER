@@ -38,7 +38,7 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: Text("Timer Demo"),
       ),
-      body: const Center(child: TimerProgress(totalSeconds: 300,)),
+      body: const Center(child: TimerProgress(totalSeconds: 120,)),
     );
   }
 }
